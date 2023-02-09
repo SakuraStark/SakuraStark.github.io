@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>新年快乐</title>
+      <link href="/blog/Happy%20new%20year/"/>
+      <url>/blog/Happy%20new%20year/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="新年快乐！"><a href="#新年快乐！" class="headerlink" title="新年快乐！"></a>新年快乐！</h1><p><img src="happynewyear2023.jpg" alt=""></p><h1 id="祝自己和大家在新的一年里顺顺利利！万事如意！"><a href="#祝自己和大家在新的一年里顺顺利利！万事如意！" class="headerlink" title="祝自己和大家在新的一年里顺顺利利！万事如意！"></a>祝自己和大家在新的一年里顺顺利利！万事如意！</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用 Hexo 快速免费搭建个人网站</title>
+      <link href="/blog/makeweb/"/>
+      <url>/blog/makeweb/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="使用hexo快速搭建个人网站"><a href="#使用hexo快速搭建个人网站" class="headerlink" title="使用hexo快速搭建个人网站"></a>使用hexo快速搭建个人网站</h1><p>  详情参见guguge大佬</p><p>  传送门：<br>  <a class="btn-beautify button--animated " href="https://guguge.top/"   title="主页地址"><i class="fas fa-download"></i><span>主页地址</span></a></p><h1 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h1><h2 id="1-使用gitee作为仓库所含内容不能超过500MB，单个文件不能超过50MB，否则超过三次会被警告，仓库被隐藏，需要重新解封修改内容方可继续使用"><a href="#1-使用gitee作为仓库所含内容不能超过500MB，单个文件不能超过50MB，否则超过三次会被警告，仓库被隐藏，需要重新解封修改内容方可继续使用" class="headerlink" title="1.使用gitee作为仓库所含内容不能超过500MB，单个文件不能超过50MB，否则超过三次会被警告，仓库被隐藏，需要重新解封修改内容方可继续使用."></a>1.使用gitee作为仓库所含内容不能超过500MB，单个文件不能超过50MB，否则超过三次会被警告，仓库被隐藏，需要重新解封修改内容方可继续使用.</h2><h2 id="2-使用Github作为仓库做多可上传1GB，单个文件不能超过100MB，否则同样会被警告，且由于众所周知的原因，用GitHub作为仓库建站响应速度明显劣于gitee"><a href="#2-使用Github作为仓库做多可上传1GB，单个文件不能超过100MB，否则同样会被警告，且由于众所周知的原因，用GitHub作为仓库建站响应速度明显劣于gitee" class="headerlink" title="2.使用Github作为仓库做多可上传1GB，单个文件不能超过100MB，否则同样会被警告，且由于众所周知的原因，用GitHub作为仓库建站响应速度明显劣于gitee."></a>2.使用Github作为仓库做多可上传1GB，单个文件不能超过100MB，否则同样会被警告，且由于众所周知的原因，用GitHub作为仓库建站响应速度明显劣于gitee.</h2><h2 id="3-Gitee需要实名认证才能开通仓库功能，审核时间一般为三天，且会审查上传文件的内容-介意慎用！"><a href="#3-Gitee需要实名认证才能开通仓库功能，审核时间一般为三天，且会审查上传文件的内容-介意慎用！" class="headerlink" title="3.Gitee需要实名认证才能开通仓库功能，审核时间一般为三天，且会审查上传文件的内容,介意慎用！"></a>3.Gitee需要实名认证才能开通仓库功能，审核时间一般为三天，且会审查上传文件的内容,介意慎用！</h2><h2 id="4-Github上传后页面自动更新，gitee需要先上传，再点击“更新仓库”，方可更新页面-可能是为了方便审查？"><a href="#4-Github上传后页面自动更新，gitee需要先上传，再点击“更新仓库”，方可更新页面-可能是为了方便审查？" class="headerlink" title="4.Github上传后页面自动更新，gitee需要先上传，再点击“更新仓库”，方可更新页面(可能是为了方便审查？)."></a>4.Github上传后页面自动更新，gitee需要先上传，再点击“更新仓库”，方可更新页面(可能是为了方便审查？).</h2><h2 id="5-Hexo-butterfly-demo文件夹中的”deploy-git”文件夹实际上是累次上传的缓存文件，上传完一定要记得及时删除，否则仓库空间很快就不够用了"><a href="#5-Hexo-butterfly-demo文件夹中的”deploy-git”文件夹实际上是累次上传的缓存文件，上传完一定要记得及时删除，否则仓库空间很快就不够用了" class="headerlink" title="5.Hexo-butterfly-demo文件夹中的”deploy git”文件夹实际上是累次上传的缓存文件，上传完一定要记得及时删除，否则仓库空间很快就不够用了."></a>5.Hexo-butterfly-demo文件夹中的”deploy git”文件夹实际上是累次上传的缓存文件，上传完一定要记得及时删除，否则仓库空间很快就不够用了.</h2><h2 id="6-初次使用时尽量不要开启各种杀毒软件，否则可能各种会出现奇怪的BUG，大多数是杀毒软件的原因-关闭杀软再重启有奇效"><a href="#6-初次使用时尽量不要开启各种杀毒软件，否则可能各种会出现奇怪的BUG，大多数是杀毒软件的原因-关闭杀软再重启有奇效" class="headerlink" title="6.初次使用时尽量不要开启各种杀毒软件，否则可能各种会出现奇怪的BUG，大多数是杀毒软件的原因,关闭杀软再重启有奇效."></a>6.初次使用时尽量不要开启各种杀毒软件，否则可能各种会出现奇怪的BUG，大多数是杀毒软件的原因,关闭杀软再重启有奇效.</h2><h3 id="6-1-比如说安装必要环境时候会安装失败且不停的弹出窗口，这种情况就是受到杀软的影响而无法正常安装某些必要软件，常见的为node-js安装失败，这时候关闭杀软，重新安装node-js再安装环境就可以正常安装了"><a href="#6-1-比如说安装必要环境时候会安装失败且不停的弹出窗口，这种情况就是受到杀软的影响而无法正常安装某些必要软件，常见的为node-js安装失败，这时候关闭杀软，重新安装node-js再安装环境就可以正常安装了" class="headerlink" title="6.1 比如说安装必要环境时候会安装失败且不停的弹出窗口，这种情况就是受到杀软的影响而无法正常安装某些必要软件，常见的为node.js安装失败，这时候关闭杀软，重新安装node.js再安装环境就可以正常安装了."></a>6.1 比如说安装必要环境时候会安装失败且不停的弹出窗口，这种情况就是受到杀软的影响而无法正常安装某些必要软件，常见的为node.js安装失败，这时候关闭杀软，重新安装node.js再安装环境就可以正常安装了.</h3><h2 id="7-Aplayer-暂时不可用，原因未知-使用说明参见博客：https-www-ottoli-cn-wordpress-anm"><a href="#7-Aplayer-暂时不可用，原因未知-使用说明参见博客：https-www-ottoli-cn-wordpress-anm" class="headerlink" title="7.Aplayer 暂时不可用，原因未知.使用说明参见博客：https://www.ottoli.cn/wordpress/anm"></a>7.Aplayer 暂时不可用，原因未知.使用说明参见博客：<a href="https://www.ottoli.cn/wordpress/anm">https://www.ottoli.cn/wordpress/anm</a></h2><h3 id="7-1-简要使用说明"><a href="#7-1-简要使用说明" class="headerlink" title="7.1 简要使用说明"></a>7.1 简要使用说明</h3><h4 id="Aplayer-音乐播放器配置："><a href="#Aplayer-音乐播放器配置：" class="headerlink" title="Aplayer 音乐播放器配置："></a>Aplayer 音乐播放器配置：</h4><pre><code>- &lt;div class=&quot;aplayer no-destroy&quot;   data-id=&quot;8072853922&quot;       ID查看腾讯，酷狗，网易等网页版的播放列表很容易找到，注意每个播放列表都有自己的ID.  data-server=&quot;netease&quot;      可选择 netease, tencent, kugou, xiami, baidu  只需简单调整以上两个参数，就可以轻松实现播放自己的歌单了.</code></pre><h2 id="8-网站使用的图片尽量精简大小，保证质量的条件下越小越好，否则很快就会发现空间不够用了-悲-，当然也可以自建服务器-贫穷-jpg"><a href="#8-网站使用的图片尽量精简大小，保证质量的条件下越小越好，否则很快就会发现空间不够用了-悲-，当然也可以自建服务器-贫穷-jpg" class="headerlink" title="8.网站使用的图片尽量精简大小，保证质量的条件下越小越好，否则很快就会发现空间不够用了(悲)，当然也可以自建服务器(贫穷.jpg)"></a>8.网站使用的图片尽量精简大小，保证质量的条件下越小越好，否则很快就会发现空间不够用了(悲)，当然也可以自建服务器(贫穷.jpg)</h2><p>  祝您建站顺利！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>本科毕业论文</title>
+      <link href="/blog/GraduationPaper/"/>
+      <url>/blog/GraduationPaper/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="本科毕业论文"><a href="#本科毕业论文" class="headerlink" title="本科毕业论文"></a>本科毕业论文</h1><p>论文下载地址：</p><a class="btn-beautify button--animated " href="https://pan.baidu.com/s/1PGgexp7vewti5iIT5U00Ig?pwd=pp9p"   title="提取密码：pp9p"><i class="fas fa-download"></i><span>提取密码：pp9p</span></a>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
